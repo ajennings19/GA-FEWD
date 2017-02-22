@@ -1,0 +1,30 @@
+h1{
+	font-family: Arial;
+	font-size: 65px;
+	color: lightgrey;
+}
+h2{
+	font-family: arial;
+	font-size: 30px;
+	color: lightgrey;
+}
+h3{
+	font-family: arial;
+	font-weight: lighter;
+	font-size: 16px;
+}
+h4{
+	font-family: arial;
+	font-weight: lighter;
+	font-size: 18px;
+}
+p{
+	font-family: arial;
+	font-weight: bold;
+	font-size: 16px;
+	color: lightgrey;
+}
+img{
+	box-shadow: 5px 5px 5px #888888;
+	border-radius: 20px;
+}
