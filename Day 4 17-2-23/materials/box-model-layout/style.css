@@ -1,0 +1,38 @@
+h1{
+	font-family: times;
+	font-size: 16px;
+	color: white;
+	text-align: center;
+}
+h2{
+	font-family: times;
+	font-size: 16px;
+	color: #9933ff;
+	text-align: center;
+	padding: 5px 5px 5px 5px;
+}
+h3{
+	font-family: times;
+	font-size: 16px;
+	color: green;
+	text-align: center;
+	padding: 5px 5px 5px 5px;
+}
+h4{
+	font-family: times;
+	font-size: 16px;
+	color: yellow;
+	text-align: center;
+	padding: 5px 5px 5px 5px;
+}
+.black{
+	background-color: black;
+
+}
+div{
+	background-color: #ff6633;
+	border: 10px solid lightgrey;
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+}

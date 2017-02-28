@@ -1,0 +1,23 @@
+h1 {
+  color: #7FDBFF;
+  	background-color: green;
+	border: 1px solid black;
+	padding: 20px 10px 10px 10px;
+	margin-top: 30px;
+	width: 50px;
+	border-bottom: 10px;
+}
+p{
+	background-color: lightblue;
+	border: 1px solid black;
+	padding: 20px 10px 10px 10px;
+	margin-top: 30px;
+	width: 200px;
+	border-bottom: thick;
+}
+div{
+	border: 10px solid red;
+	width: 100px;
+	height:100px;
+	margin-top: 20px;
+}
