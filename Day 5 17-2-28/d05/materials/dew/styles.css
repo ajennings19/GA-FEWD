@@ -1,0 +1,28 @@
+.logo_flag{
+	background-color: maroon;
+	width: 200px;
+	height: 75px;
+	color: white;
+	display: inline-block;
+}
+h1{
+	padding-left: 120px
+}
+h2{
+	display: inline-block;
+	color: lightgrey;
+	font-family: arial;
+}
+p{
+	font-family: arial;
+	color: black;
+	font-size: 11px
+}
+.about{
+	width: 400px;
+	margin: auto;
+}
+img{
+	height: 400px;
+	margin: auto;
+}
