@@ -1,0 +1,54 @@
+h1, h2{
+	display: inline-block;
+	margin: 0;
+}
+
+h1{
+	background-color: maroon;
+	color: white;
+	padding: 15px 10px 15px 100px;
+}
+h2{
+	padding-left: 5px;
+	font-size: 19px;
+	color: lightgrey;
+	font-weight: lighter;
+}
+div.container{
+	width: 960px;
+	margin: auto;
+}
+img{
+	width: 960px;
+	height: 300px;
+	object-fit: cover;
+}
+div.main{
+	width: 360px;
+	margin: 0 auto;
+	line-height: 22px;
+}
+a{
+	display: inline-block;
+	text-decoration: none;
+	color: white;
+	background-color: blue;
+	width: 170px;
+	padding: 10px 0;
+	margin-bottom:10px;
+	text-align: center;
+}
+#email{
+	width: 100%;
+}
+
+#twitter, #medium, #pinterest{
+	margin-right: 15px;
+}
+
+#footer{
+	text-align: center;
+	background-color: black;
+	color: white;
+	padding-top: 10px;
+}

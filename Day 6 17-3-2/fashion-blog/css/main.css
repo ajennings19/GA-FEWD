@@ -1,0 +1,67 @@
+body{
+	margin-left: 65px;
+	margin-top: 75px;
+}
+h1{
+	font-family: lato, san-serif;
+	font-weight: lighter;
+	color: maroon;
+	font-size: 49px;
+	margin: 0;
+}
+h2{
+	font-family: lato, san-serif;
+	font-weight: lighter;
+	color: #444444;
+	font-size: 25px;
+	margin: 0;
+	padding-bottom: 20px;
+}
+h3{
+	font-family: lato, san-serif;
+	font-weight: lighter;
+	color: lightgrey;
+	font-size: 32px;
+	margin: 0;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+h4{
+	font-family: lato, san-serif;
+	font-weight: bold;
+	font-size: 15px;
+	color: purple;
+	text-align: right;
+}
+p{
+	font-family: lato, san-serif;
+	font-weight: lighter;
+	color: black;
+	font-size: 15px;
+	line-height: 23px;
+}
+.topnav{
+	font-family: lato, san-serif;
+	font-weight: lighter;
+	color: lightgrey;
+	padding-right: 10px;
+	font-size: 25px;
+}
+div.date{
+	width: 700px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+img{
+	width: 100%;
+}
+.footer{
+	color: purple;
+	font-family: lato, san-serif;
+	font-weight: lighter;
+}
+#greybar{
+	font-family: lato, san-serif;
+	font-weight: lighter;
+	color: lightgrey;
+}
