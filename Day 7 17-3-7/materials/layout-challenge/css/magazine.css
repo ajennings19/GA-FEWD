@@ -1,0 +1,20 @@
+.container{
+	width: 80%;
+	margin: 0 auto;
+}
+
+div.first{
+	background-color: lightgrey;
+	border: 1px solid black;
+	height:100px;
+}
+div.second{
+	background-color: lightgrey;
+	border: 1px solid black;
+	height:300px;
+}
+div.third{
+	background-color: lightgrey;
+	border: 1px solid black;
+	height: 100px;
+}

@@ -1,0 +1,12 @@
+.header{
+	background-color: gold;
+}
+.nav a{
+	text-align: right;
+}
+
+@media (max-width: 480px){
+	h1, .nav{
+		text-align: center;
+	}
+}
