@@ -1,0 +1,74 @@
+/*
+// FONT FAMILY HELPERS :)
+// font-family: 'Oswald', sans-serif;
+// font-family: 'Merriweather', serif;
+// font-family: 'Source Sans Pro', sans-serif;
+*/
+
+
+nav.first{
+	background-color: black;
+	height: 50px;
+}
+h1, a{
+	display: inline-block;
+}
+h1{
+	font-family: merriweather, serif;
+	margin: 0;
+	color: yellow;
+	padding: 10 0 10 10;
+}
+nav > a{
+	font-family: source sans pro, san-serif;
+	text-align: right;
+	text-decoration: none;
+	color: white;
+	padding: 5px;
+}
+header{
+	height: 2px;
+	background-color: yellow;
+}
+section.grey{
+	background-color: lightgrey;
+	height: 50px;
+	margin: 0pc;
+}
+h2{
+	font-family: merriweather, serif;
+	font-size: 16px;
+	margin: 0;
+}
+p{
+	margin: 0;
+}
+img{
+	width: 100%;
+	height:350px;
+	object-fit: cover;
+}
+section.form{
+	background-color: lightgrey;
+	opacity: 30%;
+}
+div.col-1-3{
+	background-color: lightgrey;
+	padding: 30 30 30 30;
+}
+div.col-1-1{
+	background-color: black;
+	height: 50px;
+}
+.pwhite{
+	font-family: source sans pro, san-serif;
+	font-weight: lighter;
+	font-size: 13px;
+	color: white;
+	padding: 20 20 20 20;
+}
+.div-with-bg
+{
+    background: color url('img/coworking.jpg') others;
+}
+
