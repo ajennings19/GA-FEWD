@@ -39,6 +39,8 @@ h2{
 	font-family: merriweather, serif;
 	font-size: 16px;
 	margin: 0;
+	text-align: center;
+	padding: 15 0 15 0;
 }
 p{
 	margin: 0;
@@ -67,8 +69,9 @@ div.col-1-1{
 	color: white;
 	padding: 20 20 20 20;
 }
-.div-with-bg
+.image
 {
-    background: color url('img/coworking.jpg') others;
+    background-image: url('../img/coworking.jpg');
+    height: 500px;
 }
 
