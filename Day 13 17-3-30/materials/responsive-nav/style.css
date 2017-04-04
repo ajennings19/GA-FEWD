@@ -1,0 +1,73 @@
+h1, a, .linknav, .babydiv{
+	display: inline-block;
+}
+
+.BlackNav{
+	margin: 0;
+	background-color: black;
+	width: 100%;
+	height: 75px;
+}
+
+h1{
+	color: white;
+	vertical-align: middle;
+	padding-left: 15px;
+}
+
+a{
+	padding-top: 30px;
+	padding-right: 15px;
+	color: white;
+	vertical-align: middle;
+	text-decoration: none;
+}
+.hamburger{
+	margin: 0px;
+}
+
+.linknav{
+	color: white;
+	vertical-align: middle;
+	height:75px;
+	background-color: red;
+	margin-left: auto;
+	margin-right: 0;
+}
+
+.MobileNav{
+	width: 100%;
+	height: 250px;
+	background-color: lightblue;
+	display: none;
+}
+
+.MobileNav > a{
+	vertical-align: middle;
+	text-align: center;
+	display: block;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.babydiv{
+	background-color: white;
+	width: 20px;
+	height: 5px;
+	padding-right: 15px;
+	padding-top: 5px;
+	display: stack;
+	text-align: right;
+	display: none;
+}
+
+@media (max-width: 480px) {
+.linknav{
+	display: none;
+}
+.MobileNav{
+	display: block;
+}
+.babydiv{
+	display: block;
+}
