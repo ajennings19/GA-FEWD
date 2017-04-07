@@ -27,6 +27,7 @@ body{
 h1{
 	font-size: 1rem;
 	margin: 0;
+
 }
 
 h2{
@@ -34,6 +35,12 @@ h2{
 	letter-spacing: 2px;
 	font-weight: lighter;
 	color: 4e4e4e;
+	margin: 0;
+}
+
+p{
+	font-size: 15px;
+	line-height: 150%
 }
 
 /*rows 1-6*/
@@ -55,6 +62,34 @@ h2{
 img{
 	width: 100% !important;
 }
+
+/*project 1 page*/
+
+.project1header{
+	background-color: pink;
+	height: 450px;
+}
+
+.project1description{
+	color: white;
+	background-color: #4e4e4e;
+	padding-top: 35px;
+	padding-left: 35px;
+	padding-right: 35px;
+	padding-bottom: 35px;
+}
+
+/*project 2 page*/
+
+.headerdescription{
+	padding-top: 100px;
+}
+
+.project2header{
+	height: 500px;
+	background-color: pink;
+}
+
 
 /*footer*/
 
